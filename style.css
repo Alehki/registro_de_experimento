@@ -1,0 +1,43 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.form{
+    background-color: rgb(85, 28, 192);
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    border-radius: 25px;
+}
+.form__title{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.form__date{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 5px;
+    text-align: inherit;
+}
+
+.btn{
+    margin-bottom: 30px;
+}
